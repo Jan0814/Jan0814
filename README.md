@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Jan0814
+- 👋 Hi, Januth Ramawickrama
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning A/L's
+- 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me - januthjayanidu0814@gmail.com
 
